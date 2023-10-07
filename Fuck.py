@@ -1,2 +1,3 @@
 print ("Bypass SKBER-CYBER")
-import Fuck
+print ("Iam Your dad")
+import bypass
